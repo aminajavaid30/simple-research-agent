@@ -72,7 +72,7 @@ After fetching papers, the agent generates a structured literature review. The o
 📂 simple-research-agent
 ├── 📄 README.md            # Project Documentation
 ├── 📄 requirements.txt     # Dependencies
-├── 📝  LICENCE             # Project License
+├── 📝  LICENSE             # Project License
 ├── 🔐 .env                 # Environment variables
 ├── 📂 backend              # Backend files
 │   ├── main.py             # FastAPI Endpoints
