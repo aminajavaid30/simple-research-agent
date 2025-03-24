@@ -22,7 +22,7 @@ The **Simple Research Agent** is an AI-powered tool that automates research pape
 ## Installation
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/your-username/simple-research-agent.git
+   git clone https://github.com/aminajavaid30/simple-research-agent.git
    cd simple-research-agent
    ```
 
