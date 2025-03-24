@@ -3,7 +3,7 @@
 ## Overview
 The **Simple Research Agent** is an AI-powered tool that automates research paper discovery and summarization. It fetches research papers from **arXiv** based on a given topic, extracts key metadata, and generates a structured literature review.
 
-(images/simple-research-agent.png)
+<img src="images/simple-research-agent.png">
 
 ## Features
 - 📰 **Fetch Research Papers**: Retrieves papers from **arXiv** based on a specified topic.
